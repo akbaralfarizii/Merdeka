@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             Container(
               color: Colors.red,
               padding: EdgeInsets.all(32),
-              child: Text('Dirgahayu Indonesia ke-74, asdjhkasdjkasd sdbkjabsdka ksabdkajsd kjsbd kjasbdkaj kjasdb', style: TextStyle(fontSize: 16, color: Colors.white),),
+              child: Text('Dirgahayu Indonesia, 74 tahun sudah Indonesia merdeka, dengan ini kita harus bangga atas ulang tahun kemerdekaan indonesia ini, jadilah pribadi yang dapat membanggakan negeri ini, lanjutkanlah perjuangan para pahlawan terdahulu, MERDEKA!', style: TextStyle(fontSize: 16, color: Colors.white),),
 
             ),
             Row(
@@ -51,12 +51,10 @@ class MyApp extends StatelessWidget {
                     )
                   ],
                 ),
-                Column(
-                  children: <Widget>[
-                    Text('Since 1945',style: TextStyle(fontSize:20, color: Colors.red, ),),
-                  ],
-                ),
               ],
+            ),
+            Center(
+              child: Text('Since 1945', style: TextStyle(fontSize: 25, color: Colors.redAccent),),
             )
           ],
         )
