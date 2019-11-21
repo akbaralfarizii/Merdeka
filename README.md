@@ -27,11 +27,11 @@ Instagram : [@eudeka.id](https://instagram.com/eudeka.id).
 WhatsApp : [0895351577557](https://wa.me/62895351577557).  
 Email : [info@eudeka.id](mailto:info@eudeka.id).  
 
-[nama_project]: Peserta
-[tentang_project]: Peserta
+[nama_project]: [Merdeka]
+[tentang_project]: [Tugas 2 Flutter]
 [screenshot_project]: Peserta
 [teknologi_digunakan]: Peserta
-[nama_peserta]: Peserta
+[nama_peserta]: [Muhammad Akbar Alfarisi]
 
 [kode_tugas]: Eudeka
 [jenis_kelas]: Eudeka
